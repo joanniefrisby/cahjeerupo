@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aihoghahch.osswebtech.com/sitemap.xml
